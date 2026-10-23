@@ -1,4 +1,4 @@
-# 🎧 Spotify Album Finder
+# 🎧 Spotify Album Finder by OM INGOLE
 
 A responsive web application built with **React**, **HTML5/CSS3**, and the **Spotify Web API** that allows users to search for any artist, browse their discography, sort and filter albums, and play 30-second audio track previews.
 

@@ -12,7 +12,9 @@ export default function Navbar({ mode, onOpenSettings }) {
             <Disc3 className="brand-icon" size={28} />
           </div>
           <div>
-            <h1 className="brand-title">Spotify Album Finder</h1>
+            <h1 className="brand-title">
+              Spotify Album Finder <span className="brand-byline">by OM INGOLE</span>
+            </h1>
             <p className="brand-subtitle">Explore discographies & listen to previews</p>
           </div>
         </div>

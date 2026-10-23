@@ -208,7 +208,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="app-footer">
-        <p>Built with React & Spotify Web API • Powered by Spotify</p>
+        <p>Built with React & Spotify Web API by <strong>OM INGOLE</strong> • Powered by Spotify</p>
       </footer>
 
       {/* Tracklist Modal */}
